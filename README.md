@@ -1,26 +1,26 @@
-# Herramienta de análisis y visualización de crímenes violentos en la Zona Metropolitana de Monterrey.
+# Tool for Analysis and Visualization of Violent Crimes in the Metropolitan Area of Monterrey.
 
 -----
-**DEMO en Streamlit** <br />
+**DEMO on Streamlit** <br />
 https://ernestosaleh-tigereye-1--inicio-j7lxd4.streamlit.app/Tipos_de_Violencia
 -----
 
-Este demo ofrece.
-- Visualización del **total de delitos**.
-- Visualizacoón de **delitos per capita**.
+This demo offers:
+- Visualization of the **total crimes**.
+- Visualization of **crimes per capita**.
 
-El usuario es capaz de seleccionar el 
-<span style="color:magenta">**tipo de delito** </span>
-y 
-<span style="color:magenta">**rango de tiempo** </span> que quiere observar. 
+The user is able to select the 
+<span style="color:magenta">**type of crime** </span>
+and 
+<span style="color:magenta">**time range** </span> they want to observe.
 
-Este proyecto plantea incluir
-- Herramientas para correlacionar factores externos.
-- Pronóstico y detección de anomalías.
-- Datos actualizados con Web Scrapping.
-- Interfaz para visualizar noticias relevantes.
-- Herramientas de desarrollo para escalar esta herramienta a más ciudades.
+This project aims to include:
+- Tools to correlate external factors.
+- Forecasting and anomaly detection.
+- Updated data with Web Scraping.
+- Interface to visualize relevant news.
+- Development tools to scale this tool to more cities.
 
-Para más información y gráficas conceptuales ver **"pitch.pdf"**.
+For more information and conceptual graphs, see **"pitch.pdf"**.
 
-Para más información sobre el tratamiento  de datos y análisis exploratorio ir a https://github.com/JosePabloGFnl/Monterrey-Violence
+For more information on data processing and exploratory analysis, go to https://github.com/JosePabloGFnl/Monterrey-Violence
