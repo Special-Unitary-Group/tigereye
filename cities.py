@@ -2,12 +2,7 @@ import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
 
-class Plotting:
-    import pandas as pd
-import numpy as np
-import matplotlib.pyplot as plt
-
-class Plotting:
+class Cities:
     def __init__(self, grouped_df):
         self.grouped_df = grouped_df
 
